@@ -107,7 +107,7 @@ export const zoology = [
       "No chemical digestion in the oesophagus",
       "Chemical digestion begins in the mouth and ends in the large intestine",
     ],
-    correctAnswers: ["(a)", "(c)", "(d)"],
+    correctAnswers: ["(a)", "(b)"],
   },
   {
     id: 10,
